@@ -111,6 +111,10 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
 
+
+    orm_adapter (0.5.0)
+
+
     orm_adapter (0.5.0)
 
     pry (0.14.1)
